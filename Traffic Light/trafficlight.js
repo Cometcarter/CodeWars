@@ -4,6 +4,8 @@
 // 
 // For example, when the input is green, output should be yellow.
 // 
+//Answer
+
 function updateLight(current) {
 
     //your code here!
