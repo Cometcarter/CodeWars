@@ -24,7 +24,7 @@ function nextPal(val) {
     }
 }
 
-#solution 2
+// #solution2
 
 
 function nextPal(val) {
